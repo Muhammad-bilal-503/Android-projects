@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Kiyani &amp; Harib</string>
+    <string name="Myfirst">This  is MY First Application</string>
+    <string name="Logo">Click Me </string>
 </resources>
