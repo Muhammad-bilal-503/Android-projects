@@ -18,6 +18,7 @@
         android:layout_centerHorizontal="true"
         android:text="@string/Myfirst"
         android:textSize="30sp"
+        android:id="@+id/txtView"
         android:textColor="@color/black"
         android:textStyle="bold"
         android:background="@color/material_dynamic_neutral80"
@@ -27,6 +28,7 @@
         android:layout_height="wrap_content"
         android:src="@drawable/ball1"
         android:layout_centerInParent="true"
+        android:id="@+id/imageView"
         />
     <Button
         android:layout_width="wrap_content"
@@ -36,6 +38,7 @@
         android:text="@string/Logo"
         android:textStyle="bold"
         android:padding="10dp"
+        android:id="@+id/btn"
         android:textSize="20sp"
         />
 
